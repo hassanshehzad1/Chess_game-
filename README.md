@@ -52,6 +52,11 @@ This is  real-time multiplayer chess game built with in Node.js Express.js Socke
    To run this project localy
    <h2>Preqeusities: Node.js(v14 or later)</h2>
 
-
-
-   
+   # installation
+   git clone      https://github.com/hassanshehzad1/Chess_game-.git
+    # Dependedncies install
+     npm install
+     
+     
+  
+  
